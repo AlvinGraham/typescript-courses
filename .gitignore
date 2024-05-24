@@ -117,3 +117,6 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# yarn-lock because it changes frequently
+yarn.lock
